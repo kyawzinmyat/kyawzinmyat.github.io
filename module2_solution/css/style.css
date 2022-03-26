@@ -24,7 +24,7 @@ h1{
 .div{
 		background:#00FFFF;
 		position:relative;
-		margin:30px;
+		margin:40px;
 		border:1px solid black;
 		text-align:center
 }
@@ -32,6 +32,7 @@ h1{
 	
 .t1{
 		background:grey;
+		color:white
 		
 }
 	
